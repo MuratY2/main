@@ -3,36 +3,12 @@
     {
       "id": 1,
       "name": "Chicken Marinade",
-      "imageUrl": "https://www.recipetineats.com/wp-content/uploads/2019/06/Chicken-Marinade_9-SQ.jpg",
       "rating": "4.5/5",
       "cookTime": "30 mins",
       "ingredients": "4 boneless, skinless chicken breasts, 1/4 cup olive oil, 1/4 cup soy sauce, 2 tablespoons honey, 2 cloves garlic, minced, 1 teaspoon ground ginger, 1/2 teaspoon black pepper, 1 tablespoon lemon juice",
       "price": "$10",
       "description": "Combine olive oil, soy sauce, honey, garlic, ginger, black pepper, and lemon juice in a bowl. Add chicken breasts, ensuring they are fully coated. Marinate for at least 30 minutes. Grill on medium heat until cooked through.",
       "calories": "220 per serving"
-    },
-    {
-      "id": 2,
-      "name": "Grilled Chicken and Rice",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9PqK48UYZyE4IIGIGUysT8ry8Mzt9K8iNlf74amydg&s",
-      "rating": "4.5/5",
-      "cookTime": "45 mins",
-      "ingredients": "4 boneless, skinless chicken breasts, 1 cup long-grain white rice, 2 cups chicken broth, 2 tablespoons olive oil, 1 teaspoon garlic powder, 1 teaspoon paprika, 1 teaspoon salt, 1/2 teaspoon black pepper, Optional: Lemon wedges, chopped fresh parsley for garnish",
-      "price": "$15",
-      "description": "Season chicken with garlic powder, paprika, salt, and pepper. Grill until cooked. Cook rice in chicken broth until fluffy. Serve chicken on a bed of rice, garnished with lemon wedges and parsley.",
-      "calories": "550 per serving"
-    },
-    {
-      "id": 3,
-      "name": "Beef and Rice",
-      "imageUrl": "images/Food3.png",
-      "rating": "4.7/5",
-      "cookTime": "60 mins",
-      "ingredients": "1 lb beef cubed, 1 cup rice, 1 cup dried chickpeas, 1 large onion diced, 2 cloves garlic minced, 1 can diced tomatoes, 2 tablespoons olive oil, 1 teaspoon cumin, 1 teaspoon paprika, Salt and pepper to taste",
-      "price": "$20",
-      "description": "Soak chickpeas overnight. Sauté onion and garlic in olive oil until soft. Add beef, cooking until browned. Add spices and tomatoes, simmering until beef is tender. Cook rice separately. Serve beef over rice with chickpeas.",
-      "calories": "630 per serving"
     }
-    // Add other recipes in similar format
   ]
 }
