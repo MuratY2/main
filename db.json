@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Chicken Marinade",
+      "imageUrl": "https://www.example.com/images/Food1.png",
       "rating": "4.5/5",
       "cookTime": "30 mins",
       "ingredients": "4 boneless, skinless chicken breasts, 1/4 cup olive oil, 1/4 cup soy sauce, 2 tablespoons honey, 2 cloves garlic, minced, 1 teaspoon ground ginger, 1/2 teaspoon black pepper, 1 tablespoon lemon juice",
