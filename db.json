@@ -10,6 +10,94 @@
       "price": "$10",
       "description": "Combine olive oil, soy sauce, honey, garlic, ginger, black pepper, and lemon juice in a bowl. Add chicken breasts, ensuring they are fully coated. Marinate for at least 30 minutes. Grill on medium heat until cooked through.",
       "calories": "220 per serving"
+    },
+    {
+      "id": 2,
+      "name": "Grilled Chicken and Rice",
+      "imageUrl": "images/Food2.png",
+      "rating": "4.5/5",
+      "cookTime": "45 mins",
+      "ingredients": "4 boneless, skinless chicken breasts, 1 cup long-grain white rice, 2 cups chicken broth, 2 tablespoons olive oil, 1 teaspoon garlic powder, 1 teaspoon paprika, 1 teaspoon salt, 1/2 teaspoon black pepper, Optional: Lemon wedges, chopped fresh parsley for garnish",
+      "price": "$15",
+      "description": "Season chicken with garlic powder, paprika, salt, and pepper. Grill until cooked. Cook rice in chicken broth until fluffy. Serve chicken on a bed of rice, garnished with lemon wedges and parsley.",
+      "calories": "550 per serving"
+    },
+    {
+      "id": 3,
+      "name": "Beef and Rice",
+      "imageUrl": "images/Food3.png",
+      "rating": "4.7/5",
+      "cookTime": "60 mins",
+      "ingredients": "1 lb beef cubed, 1 cup rice, 1 cup dried chickpeas, 1 large onion diced, 2 cloves garlic minced, 1 can diced tomatoes, 2 tablespoons olive oil, 1 teaspoon cumin, 1 teaspoon paprika, Salt and pepper to taste",
+      "price": "$20",
+      "description": "Soak chickpeas overnight. Sauté onion and garlic in olive oil until soft. Add beef, cooking until browned. Add spices and tomatoes, simmering until beef is tender. Cook rice separately. Serve beef over rice with chickpeas.",
+      "calories": "630 per serving"
+    },
+    {
+      "id": 4,
+      "name": "Steak",
+      "imageUrl": "images/Food4.png",
+      "rating": "4.5/5",
+      "cookTime": "25 mins",
+      "ingredients": "1 inch thick steak, Salt, Black pepper, 2 tablespoons olive oil or butter",
+      "price": "$25",
+      "description": "Season steak with salt and pepper. Heat olive oil or melt butter in a skillet over medium-high heat. Cook steak to desired doneness, about 4-5 minutes per side for medium-rare. Let rest before slicing.",
+      "calories": "470 per serving"
+    },
+    {
+      "id": 5,
+      "name": "Manti",
+      "imageUrl": "images/Food5.png",
+      "rating": "4.6/5",
+      "cookTime": "90 mins",
+      "ingredients": "2 cups all-purpose flour, 1/2 teaspoon salt, 1 egg, 1/2 lb ground beef or lamb, 1 small onion finely minced, Salt and black pepper, 1 cup plain yogurt, 2 cloves garlic minced, 2 tablespoons butter, 1 teaspoon paprika",
+      "price": "$18",
+      "description": "Prepare dough with flour, salt, and water. Mix meat, onion, salt, and pepper for filling. Form small dumplings filled with meat mixture. Boil until they rise. Serve with garlic yogurt and melted butter with paprika.",
+      "calories": "560 per serving"
+    },
+    {
+      "id": 6,
+      "name": "Tiramisu",
+      "imageUrl": "images/Food6.png",
+      "rating": "4.8/5",
+      "cookTime": "30 mins",
+      "ingredients": "24 ladyfingers, 1 cup of strong brewed espresso, 16 ounces (2 cups) of mascarpone cheese, 4 large eggs (separated), 1/2 cup of granulated sugar, 2 tablespoons of cocoa powder for dusting, and optionally 1/4 cup of Marsala wine",
+      "price": "$15",
+      "description": "Brew strong espresso and let it cool, then separate egg yolks from whites. Whisk yolks with sugar until creamy, then add mascarpone cheese. Beat whites until stiff peaks form, fold into mascarpone mixture. Dip ladyfingers in espresso, layer in dish, spread mascarpone mixture over, repeat layers. Dust top with cocoa powder, refrigerate for 4 hours. Slice and serve chilled.",
+      "calories": "280 per serving"
+    },
+    {
+      "id": 7,
+      "name": "Magnolia",
+      "imageUrl": "images/Food7.png",
+      "rating": "4.9/5",
+      "cookTime": "45 mins",
+      "ingredients": "1-2 cups of magnolia petals, 1 cup of sliced fresh strawberries, 1 1/2 cups of all-purpose flour, 3/4 cup of sugar, 2 large eggs, 1/2 cup of milk, 1/2 cup (1 stick) of melted butter, 1 teaspoon of vanilla extract, 2 teaspoons of baking powder, and 1/4 teaspoon of salt.",
+      "price": "$20",
+      "description": " Preheat the oven to 175°C and grease a baking dish. Rinse and dry magnolia petals and strawberries. Cream together butter and sugar, then add eggs one at a time followed by vanilla extract. Sift together flour, baking powder, and salt, then gradually add to the creamed mixture alternating with milk. Gently fold in magnolia petals and sliced strawberries. Pour batter into the prepared baking dish, bake for 30-35 minutes, and let cool before serving. Garnish with additional strawberries and magnolia petals if desired.",
+      "calories": "200 per serving"
+    },
+    {
+      "id": 8,
+      "name": "Chocolate cake",
+      "imageUrl": "images/Food8.png",
+      "rating": "4.7/5",
+      "cookTime": "50 mins",
+      "ingredients": "2 cups of all-purpose flour, 3/4 cup of unsweetened cocoa powder, 2 teaspoons of baking powder, 1 teaspoon of baking soda, 1/2 teaspoon of salt, 2 cups of granulated sugar, 2 large eggs, 1 cup of vegetable oil, 2 teaspoons of vanilla extract, and 1 cup of buttermilk",
+      "price": "$20",
+      "description": "preheat the oven to 175°C, grease two round cake pans, mix dry ingredients, whisk together wet ingredients, gradually combine dry ingredients with wet, divide batter between pans, bake for 30-35 minutes, let cool, then frost as desired.",
+      "calories": "250 per serving"
+    },
+    {
+      "id": 9,
+      "name": "Strawberry milkshake",
+      "imageUrl": "images/Food9.png",
+      "rating": "4.9/5",
+      "cookTime": "5 mins",
+      "ingredients": "Fresh strawberries, milk, vanilla ice cream, and optionally sugar",
+      "price": "$5",
+      "description": "Combine fresh strawberries, milk, vanilla ice cream, and optionally sugar in a blender, blend until smooth and creamy, pour into glasses, optionally garnish with whipped cream and a fresh strawberry, and serve immediately for a refreshing strawberry milkshake experience.",
+      "calories": "200 per serving"
     }
   ]
 }
