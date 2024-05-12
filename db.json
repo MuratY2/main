@@ -36,7 +36,7 @@
     {
       "id": 4,
       "name": "Steak",
-      "imageUrl": "images/Food4.png",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSnFr5l03hyzBp4WB8fPOfw2iT37WPLYtDgi3W_UmMKA&s",
       "rating": "4.5/5",
       "cookTime": "25 mins",
       "ingredients": "1 inch thick steak, Salt, Black pepper, 2 tablespoons olive oil or butter",
