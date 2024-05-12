@@ -14,7 +14,7 @@
     {
       "id": 2,
       "name": "Grilled Chicken and Rice",
-      "imageUrl": "images/Food2.png",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe9PqK48UYZyE4IIGIGUysT8ry8Mzt9K8iNlf74amydg&s",
       "rating": "4.5/5",
       "cookTime": "45 mins",
       "ingredients": "4 boneless, skinless chicken breasts, 1 cup long-grain white rice, 2 cups chicken broth, 2 tablespoons olive oil, 1 teaspoon garlic powder, 1 teaspoon paprika, 1 teaspoon salt, 1/2 teaspoon black pepper, Optional: Lemon wedges, chopped fresh parsley for garnish",
@@ -25,7 +25,7 @@
     {
       "id": 3,
       "name": "Beef and Rice",
-      "imageUrl": "images/Food3.png",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwNgmJjIkEvc21FM_IP8UCiSjqnHuxSHFsmuDLMuSZ0w&s",
       "rating": "4.7/5",
       "cookTime": "60 mins",
       "ingredients": "1 lb beef cubed, 1 cup rice, 1 cup dried chickpeas, 1 large onion diced, 2 cloves garlic minced, 1 can diced tomatoes, 2 tablespoons olive oil, 1 teaspoon cumin, 1 teaspoon paprika, Salt and pepper to taste",
