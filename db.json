@@ -47,7 +47,7 @@
     {
       "id": 5,
       "name": "Manti",
-      "imageUrl": "images/Food5.png",
+      "imageUrl": "https://d17wu0fn6x6rgz.cloudfront.net/img/w/tarif/mgt/tavukmanti_1450x700.webp",
       "rating": "4.6/5",
       "cookTime": "90 mins",
       "ingredients": "2 cups all-purpose flour, 1/2 teaspoon salt, 1 egg, 1/2 lb ground beef or lamb, 1 small onion finely minced, Salt and black pepper, 1 cup plain yogurt, 2 cloves garlic minced, 2 tablespoons butter, 1 teaspoon paprika",
@@ -58,7 +58,7 @@
     {
       "id": 6,
       "name": "Tiramisu",
-      "imageUrl": "images/Food6.png",
+      "imageUrl": "https://cdn.yemek.com/mnresize/1250/833/uploads/2023/01/turk-kahveli-tiramisu-mutfakyusufu.jpg",
       "rating": "4.8/5",
       "cookTime": "30 mins",
       "ingredients": "24 ladyfingers, 1 cup of strong brewed espresso, 16 ounces (2 cups) of mascarpone cheese, 4 large eggs (separated), 1/2 cup of granulated sugar, 2 tablespoons of cocoa powder for dusting, and optionally 1/4 cup of Marsala wine",
@@ -69,7 +69,7 @@
     {
       "id": 7,
       "name": "Magnolia",
-      "imageUrl": "images/Food7.png",
+      "imageUrl": "https://i.lezzet.com.tr/images-xxlarge-recipe/sekersiz-cilekli-magnolia-657105d5-a7ae-4dd6-aba1-686ea3505149.jpg",
       "rating": "4.9/5",
       "cookTime": "45 mins",
       "ingredients": "1-2 cups of magnolia petals, 1 cup of sliced fresh strawberries, 1 1/2 cups of all-purpose flour, 3/4 cup of sugar, 2 large eggs, 1/2 cup of milk, 1/2 cup (1 stick) of melted butter, 1 teaspoon of vanilla extract, 2 teaspoons of baking powder, and 1/4 teaspoon of salt.",
@@ -80,7 +80,7 @@
     {
       "id": 8,
       "name": "Chocolate cake",
-      "imageUrl": "images/Food8.png",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/chocolate-cake-index-64b83bce2df26.jpg?crop=0.6668359143606668xw:1xh;center,top&resize=1200:*",
       "rating": "4.7/5",
       "cookTime": "50 mins",
       "ingredients": "2 cups of all-purpose flour, 3/4 cup of unsweetened cocoa powder, 2 teaspoons of baking powder, 1 teaspoon of baking soda, 1/2 teaspoon of salt, 2 cups of granulated sugar, 2 large eggs, 1 cup of vegetable oil, 2 teaspoons of vanilla extract, and 1 cup of buttermilk",
@@ -91,7 +91,7 @@
     {
       "id": 9,
       "name": "Strawberry milkshake",
-      "imageUrl": "images/Food9.png",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ3O_ajpnxEZH_FK1pfK_HLyLrQmUUlOIeKKs60CbucQ&s",
       "rating": "4.9/5",
       "cookTime": "5 mins",
       "ingredients": "Fresh strawberries, milk, vanilla ice cream, and optionally sugar",
