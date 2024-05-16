@@ -87,6 +87,17 @@
       "price": "$20",
       "description": "preheat the oven to 175°C, grease two round cake pans, mix dry ingredients, whisk together wet ingredients, gradually combine dry ingredients with wet, divide batter between pans, bake for 30-35 minutes, let cool, then frost as desired.",
       "calories": "250 per serving"
+    },
+    {
+      "id": 9,
+      "name": "Strawberry milkshake",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ3O_ajpnxEZH_FK1pfK_HLyLrQmUUlOIeKKs60CbucQ&s",
+      "rating": "4.9/5",
+      "cookTime": "5 mins",
+      "ingredients": "Fresh strawberries, milk, vanilla ice cream, and optionally sugar",
+      "price": "$5",
+      "description": "Combine fresh strawberries, milk, vanilla ice cream, and optionally sugar in a blender, blend until smooth and creamy, pour into glasses, optionally garnish with whipped cream and a fresh strawberry, and serve immediately for a refreshing strawberry milkshake experience.",
+      "calories": "200 per serving"
     }
   ]
 }
